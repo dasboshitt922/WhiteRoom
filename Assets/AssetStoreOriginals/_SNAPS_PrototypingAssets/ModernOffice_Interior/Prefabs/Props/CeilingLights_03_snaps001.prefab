@@ -157,11 +157,11 @@ Light:
   serializedVersion: 10
   m_Type: 0
   m_Shape: 0
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 2
+  m_Color: {r: 0.84333926, g: 0.8584906, b: 0.140922, a: 1}
+  m_Intensity: 6
   m_Range: 6.817593
-  m_SpotAngle: 100.72332
-  m_InnerSpotAngle: 91.56495
+  m_SpotAngle: 121.3554
+  m_InnerSpotAngle: 55.40235
   m_CookieSize: 10
   m_Shadows:
     m_Type: 2
@@ -170,7 +170,7 @@ Light:
     m_Strength: 1
     m_Bias: 0.02
     m_NormalBias: 0.1
-    m_NearPlane: 0.1
+    m_NearPlane: 1.5240835
     m_CullingMatrixOverride:
       e00: 1
       e01: 0
